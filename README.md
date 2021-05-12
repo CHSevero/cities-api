@@ -1,5 +1,5 @@
 # Cities API
- This project is a Rest API for consulting Brazilian cities with comparative data and calculating the distance between two cities based on their geolocation. This project was made for the final project of the everis Quality Assurance Beginner Bootcamp on the web.digitalinnovation.one platform. Project live at https://serene-waters-13799.herokuapp.com/
+ This project is a Rest API for consulting Brazilian cities with comparative data and calculating the distance between two cities based on their geolocation. This project was made for the final project of the everis Quality Assurance Beginner Bootcamp on the web.digitalinnovation.one platform. Project live at https://serene-waters-13799.herokuapp.com/ with end-points cities, states, countries. 
 ## Requirements
 
 * Linux
