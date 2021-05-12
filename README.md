@@ -1,5 +1,5 @@
 # Cities API
-``` This project is a Rest API for consulting Brazilian cities with comparative data and calculating the distance between two cities based on their geolocation. This project was made for the final project of the everis Quality Assurance Beginner Bootcamp on the web.digitalinnovation.one platform.```
+ This project is a Rest API for consulting Brazilian cities with comparative data and calculating the distance between two cities based on their geolocation. This project was made for the final project of the everis Quality Assurance Beginner Bootcamp on the web.digitalinnovation.one platform.
 ## Requirements
 
 * Linux
